@@ -153,7 +153,7 @@ GOOS=darwin GOARCH=amd64 go build -o git-commit-mocker-darwin ./cmd/git-commit-m
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
